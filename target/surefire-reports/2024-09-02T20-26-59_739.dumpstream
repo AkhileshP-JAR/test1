@@ -1,0 +1,5 @@
+# Created at 2024-09-02T20:27:00.056
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Practical waste\TE\simple-java-maven-app-master\simple-java-maven-app-master\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
